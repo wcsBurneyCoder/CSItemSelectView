@@ -5,7 +5,7 @@
 * 导入主头文件：`#import "CSItemSelectView.h"`
 
 ### 效果图
-![](https://github.com/wcsBurneyCoder/CSItemSelectView/test.gif)
+![](https://github.com/wcsBurneyCoder/CSItemSelectView/blob/master/test.gif)
 
 ### 用法
 在需要用到`CSItemSelectView`的地方添加如下代码
