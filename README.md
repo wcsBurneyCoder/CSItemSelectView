@@ -7,6 +7,10 @@
 ### 效果图
 ![](https://github.com/wcsBurneyCoder/CSItemSelectView/blob/master/test.gif)
 
+### 要求
+* `ARC`
+* `iOS7+`
+
 ### 用法
 在需要用到`CSItemSelectView`的地方添加如下代码
 ```objc
